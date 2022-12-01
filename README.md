@@ -1,4 +1,4 @@
 # campo-minado
-campo-minado
-
-virtualbox
+campo-minado  
+vmware  
+virtualbox 
