@@ -2,3 +2,5 @@
 campo-minado  
 vmware  
 virtualbox 
+linux
+
